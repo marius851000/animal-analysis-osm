@@ -1,0 +1,11 @@
+Total rows: 100
+NAME_USE:
+  specie name: 48 (71.6%)
+  (empty): 30
+  name/description: 19 (28.4%)
+  ???: 3
+
+ANIMAL_USE:
+  (empty): 92
+  specie name (english): 8 (100.0%)
+
